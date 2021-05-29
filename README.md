@@ -2,7 +2,7 @@
 
 ## Note: It will expand to about ~130GB, so be careful with that!
 
-Click [here](https://mega.nz/file/m44FEAQY#mh728A01ZqbhfHcW2YztBC0oouSEEwC0n4XYHjQc_IQ) to download the file.
+Click [here](https://drive.google.com/file/d/1TMMt0f2ND0ZQhRVtNO7oh-pBNKSl9SCN/view?usp=sharing) to download the file.
 
 File names:
 
