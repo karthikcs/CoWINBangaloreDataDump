@@ -21,8 +21,8 @@ for f_name in files:
             d2['received_time'] = d['received_time']
             sessions_list.append(d2)
     
-    json_object = json.dumps(sessions_list)
-    session_df = pd.read_json(json_object, orient = 'records')
-    csv_filename = f_name + '.csv'
-    session_df.to_csv(csv_filename)
-    del session_df
+        json_object = json.dumps(sessions_list)
+        session_df = pd.read_json(json_object, orient = 'records')
+        csv_filename = f_name + '.csv'
+        session_df.to_csv(csv_filename)
+        del session_df
